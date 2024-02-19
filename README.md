@@ -1,4 +1,4 @@
-# Force Calculator Application
+# Vehicle Force Calculator Application
 # Description
 This Force Calculator is a desktop application developed with Python and Tkinter.
 
